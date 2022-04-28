@@ -1,5 +1,7 @@
 
-<p><img align="center"https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="waghchaurepooja" /></p>
+<div align="center">
+<img width="40%" height = "200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Pooja Waghchaure</h1>
 <h3 align="center">I am passionate about to Learn technology.</h3>
 
